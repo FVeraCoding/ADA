@@ -1,0 +1,15 @@
+Hibernate\Relacion\Modelo\Persistencia\ConferenciaJpaController.class
+Hibernate\Relacion\Modelo\Persistencia\exceptions\NonexistentEntityException.class
+Hibernate\Relacion\Controlador\ConferenciaController.class
+Hibernate\Relacion\Modelo\Persistencia\InvestigadorJpaController.class
+Hibernate\Relacion\Controlador\ProyectoController.class
+Hibernate\Relacion\Modelo\Clases\Conferencia.class
+Hibernate\Relacion\Modelo\Clases\Proyecto.class
+Hibernate\Relacion\Modelo\Clases\Investigador.class
+Hibernate\Relacion\Modelo\Persistencia\ProyectoJpaController.class
+Hibernate\Relacion\Controlador\InvestigadorController.class
+Hibernate\Relacion\Modelo\Persistencia\exceptions\IllegalOrphanException.class
+Hibernate\Relacion\Modelo\Persistencia\ControladoraPersistencia.class
+Hibernate\Relacion\Modelo\Persistencia\exceptions\PreexistingEntityException.class
+Hibernate\Relacion\Vista\Main.class
+Hibernate\Relacion\Modelo\Clases\NombreCompleto.class
